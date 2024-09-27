@@ -1,3 +1,3 @@
-# Esta es laa segunda página
+# Esta es la segunda página
 
 [Volver atrás](README.md)
